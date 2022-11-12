@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color:forest green 
+Favorite food:sushi 
+Favorite musician/band:MF DOOM 
+Favorite movie: inglorious basterds
+Requested grade in the course: 100
